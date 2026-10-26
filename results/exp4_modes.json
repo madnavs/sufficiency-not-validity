@@ -1,0 +1,6002 @@
+[
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 1,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 1,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 1,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 1,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 1,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 1,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 2,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 2,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 2,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 2,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 2,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 2,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 3,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 3,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 3,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 3,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 3,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 3,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 4,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 4,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 4,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 4,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 4,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 4,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 5,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 5,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 5,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 5,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 5,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 5,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 6,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 6,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 6,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 6,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 6,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 6,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 7,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 7,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 7,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 7,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 7,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 7,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 8,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 8,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 8,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 8,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 8,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 8,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 9,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 9,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 9,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 9,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 9,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 9,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 10,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 10,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 10,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 10,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 10,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 10,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 11,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 11,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 11,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 11,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 11,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 11,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 12,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 12,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 12,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 12,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 12,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 12,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 13,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 13,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 13,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 13,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 13,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 13,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 14,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 14,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 14,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 14,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 14,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 14,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 15,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 15,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 15,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 15,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 15,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 15,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 16,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 16,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 16,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 16,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 16,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 16,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 17,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 17,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 17,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 17,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 17,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 17,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 18,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 18,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 18,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 18,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 18,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 18,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 19,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 19,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 19,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 19,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 19,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 19,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 20,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 20,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 20,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 20,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 20,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 20,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 21,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 21,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 21,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 21,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 21,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 21,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 22,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 22,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 22,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 22,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 22,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 22,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 23,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 23,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 23,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 23,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 23,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 23,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 24,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 24,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 24,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 24,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 24,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 24,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 25,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 25,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 25,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 25,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 25,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 25,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 26,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 26,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 26,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 26,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 26,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 26,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 27,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 27,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 27,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 27,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 27,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 27,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 28,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 28,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 28,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 28,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 28,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 28,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 29,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 29,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 29,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 29,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 29,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 29,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 30,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 30,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 30,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 30,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 30,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 30,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 31,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 31,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 31,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 31,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 31,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 31,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 32,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 32,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 32,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 32,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 32,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 32,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 33,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 33,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 33,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 33,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 33,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 33,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 34,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 34,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 34,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 34,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 34,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 34,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 35,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 35,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 35,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 35,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 35,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 35,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 36,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 36,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 36,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 36,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 36,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 36,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 37,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 37,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 37,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 37,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 37,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 37,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 38,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 38,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 38,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 38,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 38,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 38,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 39,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 39,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 39,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 39,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 39,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 39,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 40,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 40,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 40,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 40,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 40,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 40,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 41,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 41,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 41,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 41,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 41,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 41,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 42,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 42,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 42,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 42,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 42,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 42,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 43,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 43,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 43,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 43,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 43,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 43,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 44,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 44,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 44,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 44,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 44,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 44,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 45,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 45,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 45,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 45,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 45,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 45,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 46,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 46,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 46,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 46,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 46,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 46,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 47,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 47,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 47,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 47,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 47,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 47,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 48,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 48,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 48,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 48,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 48,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 48,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 49,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 49,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 49,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 49,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 49,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 49,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 50,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 50,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 50,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 50,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 50,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 50,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 51,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 51,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 51,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 51,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 51,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 51,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 52,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 52,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 52,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 52,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 52,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 52,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 53,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 53,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 53,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 53,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 53,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 53,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 54,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 54,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 54,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 54,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 54,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 54,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 55,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 55,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 55,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 55,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 55,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 55,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 56,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 56,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 56,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 56,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 56,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 56,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 57,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 57,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 57,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 57,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 57,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 57,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 58,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 58,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 58,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 58,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 58,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 58,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 59,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 59,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 59,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 59,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 59,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 59,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 60,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 60,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 60,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 60,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 60,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 60,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 61,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 61,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 61,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 61,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 61,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 61,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 62,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 62,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 62,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 62,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 62,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 62,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 63,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 63,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 63,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 63,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 63,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 63,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 64,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 64,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 64,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 64,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 64,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 64,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 65,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 65,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 65,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 65,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 65,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 65,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 66,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 66,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 66,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 66,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 66,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 66,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 67,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 67,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 67,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 67,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 67,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 67,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 68,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 68,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 68,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 68,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 68,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 68,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 69,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 69,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 69,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 69,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 69,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 69,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 70,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 70,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 70,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 70,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 70,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 70,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 71,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 71,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 71,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 71,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 71,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 71,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 72,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 72,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 72,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 72,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 72,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 72,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 73,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 73,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 73,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 73,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 73,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 73,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 74,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 74,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 74,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 74,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 74,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 74,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 75,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 75,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 75,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 75,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 75,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 75,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 76,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 76,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 76,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 76,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 76,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 76,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 77,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 77,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 77,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 77,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 77,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 77,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 78,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 78,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 78,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 78,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 78,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 78,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 79,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 79,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 79,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 79,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 79,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 79,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 80,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 80,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 80,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 80,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 80,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 80,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 81,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 81,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 81,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 81,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 81,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 81,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 82,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 82,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 82,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 82,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 82,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 82,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 83,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 83,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 83,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 83,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 83,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 83,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 84,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 84,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 84,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 84,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 84,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 84,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 85,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 85,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 85,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 85,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 85,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 85,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 86,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 86,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 86,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 86,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 86,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 86,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 87,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 87,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 87,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 87,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 87,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 87,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 88,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 88,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 88,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 88,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 88,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 88,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 89,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 89,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 89,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 89,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 89,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 89,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 90,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 90,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 90,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 90,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 90,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 90,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 91,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 91,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 91,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 91,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 91,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 91,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 92,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 92,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 92,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 92,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 92,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 92,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 93,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 93,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 93,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 93,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 93,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 93,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 94,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 94,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 94,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 94,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 94,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 94,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 95,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 95,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 95,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 95,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 95,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 95,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 96,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 96,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 96,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 96,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 96,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 96,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 97,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 97,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 97,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 97,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 97,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 97,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 98,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 98,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 98,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 98,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 98,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 98,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 99,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 99,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 99,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 99,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 99,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 99,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 100,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 100,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 100,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 100,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 100,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 100,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 101,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 101,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 101,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 101,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 101,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 101,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 102,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 102,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 102,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 102,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 102,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 102,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 103,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 103,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 103,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 103,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 103,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 103,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 104,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 104,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 104,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 104,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 104,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 104,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 105,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 105,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 105,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 105,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 105,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 105,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 106,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 106,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 106,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 106,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 106,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 106,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 107,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 107,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 107,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 107,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 107,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 107,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 108,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 108,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 108,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 108,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 108,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 108,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 109,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 109,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 109,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 109,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 109,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 109,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 110,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 110,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 110,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 110,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 110,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 110,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 111,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 111,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 111,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 111,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 111,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 111,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 112,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 112,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 112,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 112,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 112,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 112,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 113,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 113,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 113,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 113,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 113,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 113,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 114,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 114,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 114,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 114,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 114,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 114,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 115,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 115,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 115,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 115,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 115,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 115,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 116,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 116,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 116,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 116,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 116,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 116,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 117,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 117,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 117,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 117,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 117,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 117,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 118,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 118,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 118,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 118,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 118,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 118,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 119,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 119,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 0
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 119,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 119,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "REJECT",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 119,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 119,
+  "kind": "contradictory",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 120,
+  "kind": "intact",
+  "arm": "plain",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 1,
+  "gave_number": 1,
+  "idx": 120,
+  "kind": "intact",
+  "arm": "routed",
+  "answer_correct": 1
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 1,
+  "gave_number": 0,
+  "idx": 120,
+  "kind": "underspec",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 1,
+  "idx": 120,
+  "kind": "underspec",
+  "arm": "routed"
+ },
+ {
+  "mode": "ASK",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 120,
+  "kind": "contradictory",
+  "arm": "plain"
+ },
+ {
+  "mode": "ANSWER",
+  "mode_correct": 0,
+  "gave_number": 0,
+  "idx": 120,
+  "kind": "contradictory",
+  "arm": "routed"
+ }
+]

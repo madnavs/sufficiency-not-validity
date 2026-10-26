@@ -1,0 +1,3152 @@
+[
+ {
+  "idx": 0,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 0,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 0,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 1,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 1,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 1,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 2,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 2,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 2,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 3,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 3,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 3,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 4,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 4,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 4,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 5,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 5,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 5,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 6,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 6,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 6,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 7,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 7,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 7,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 8,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 8,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 8,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 9,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 9,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 9,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 10,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 10,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 10,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 11,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 11,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 11,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 12,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 12,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 12,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 13,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 13,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 13,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 14,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 14,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 14,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 15,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 15,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 15,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 16,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 16,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 16,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 17,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 17,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 17,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 18,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 18,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 18,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 19,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 19,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 19,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 20,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 20,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 20,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 21,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 21,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 21,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 22,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 22,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 22,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 23,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 23,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 23,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 24,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 24,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 24,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 25,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 25,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 25,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 26,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 26,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 26,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 27,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 27,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 27,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 28,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 28,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 28,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 29,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 29,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 29,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 30,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 30,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 30,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 31,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 31,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 31,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 32,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 32,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 32,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 33,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 33,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 33,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 34,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 34,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 34,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 35,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 35,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 35,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 36,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 36,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 36,
+  "kind": "false",
+  "verdict": "INVALID",
+  "flagged_invalid": 1,
+  "response": "INVALID\n\nThe proposed reasoning contains an error in Step 1. The question specifies that Grandma Jones baked 5 apple pies, but then the reasoning incorrectly states that \"the usual weekly allowance of 4 is included in this figure.\" This statement is irrelevant to the problem and should be removed. \n\nCorrecting Step 1, we should calculate the total number of pieces as follows:\n\nTotal pieces = (Number of pies) $\\times$ (Pieces per pie)\nTotal pieces = $5 \\times 8 = 40$ pieces.\n\nWith this correction, the subsequent steps remain valid. Therefore, the correct calculation for the number of pieces taken by the guests would be:\n\nPieces taken = (Total pieces) - (Remaining pieces)\nPieces taken = $40 - 14 = 26$ pieces.\n\nThus, the final answer, after fixing the initial step, is VALID."
+ },
+ {
+  "idx": 37,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 37,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 37,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 38,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 38,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 38,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 39,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 39,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 39,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 40,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 40,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 40,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 41,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 41,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 41,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 42,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 42,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 42,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 43,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 43,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 43,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 44,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 44,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 44,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 45,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 45,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 45,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 46,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 46,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 46,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 47,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 47,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 47,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 48,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 48,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 48,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 49,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 49,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 49,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 50,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 50,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 50,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 51,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 51,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 51,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 52,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 52,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 52,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 53,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 53,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 53,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 54,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 54,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 54,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 55,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 55,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 55,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 56,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 56,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 56,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 57,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 57,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 57,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 58,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 58,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 58,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 59,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 59,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 59,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 60,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 60,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 60,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 61,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 61,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 61,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 62,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 62,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 62,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 63,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 63,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 63,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 64,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 64,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 64,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 65,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 65,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 65,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 66,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 66,
+  "kind": "omitted",
+  "verdict": "INVALID",
+  "flagged_invalid": 1,
+  "response": "INVALID\n\nThe proposed answer of 88 is incorrect based on the provided reasoning and calculations. The correct total earnings after rounding the prices to the nearest dollar and calculating the revenue from each type of flower are as follows:\n\n- Revenue from marigolds: \\(12 \\times \\$3 = \\$36\\)\n- Revenue from petunias: \\(9 \\times \\$2 = \\$18\\)\n- Revenue from begonias: \\(17 \\times \\$2 = \\$34\\)\n\nAdding these together gives the total earnings: \n\\[ \\$36 + \\$18 + \\$34 = \\$88 \\]\n\nSo, the correct total amount Artie will make is \\$88, not 88 (which seems to be a typo). Therefore, the reasoning does not fully justify the answer of 88; it correctly calculates the total as \\$88."
+ },
+ {
+  "idx": 66,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 67,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 67,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 67,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 68,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 68,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 68,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 69,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 69,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 69,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 70,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 70,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 70,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 71,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 71,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 71,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 72,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 72,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 72,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 73,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 73,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 73,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 74,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 74,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 74,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 75,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 75,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 75,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 76,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 76,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 76,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 77,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 77,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 77,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 78,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 78,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 78,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 79,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 79,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 79,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 80,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 80,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 80,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 81,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 81,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 81,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 82,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 82,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 82,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 83,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 83,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 83,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 84,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 84,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 84,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 85,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 85,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 85,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 86,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 86,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 86,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 87,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 87,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 87,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 88,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 88,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 88,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 89,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 89,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 89,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 90,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 90,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 90,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 91,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 91,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 91,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 92,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 92,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 92,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 93,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 93,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 93,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 94,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 94,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 94,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 95,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 95,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 95,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 96,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 96,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 96,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 97,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 97,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 97,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 98,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 98,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 98,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 99,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 99,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 99,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 100,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 100,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 100,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 101,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 101,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 101,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 102,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 102,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 102,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 103,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 103,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 103,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 104,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 104,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 104,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 105,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 105,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 105,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 106,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 106,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 106,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 107,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 107,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 107,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 108,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 108,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 108,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 109,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 109,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 109,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 110,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 110,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 110,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 111,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 111,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 111,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 112,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 112,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 112,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 113,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 113,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 113,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 114,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 114,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 114,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 115,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 115,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 115,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 116,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 116,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 116,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 117,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 117,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 117,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 118,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 118,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 118,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 119,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 119,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 119,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 120,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 120,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 120,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 121,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 121,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 121,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 122,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 122,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 122,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 123,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 123,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 123,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 124,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 124,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 124,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 125,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 125,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 125,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 126,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 126,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 126,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 127,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 127,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 127,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 128,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 128,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 128,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 129,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 129,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 129,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 130,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 130,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 130,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 131,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 131,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 131,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 132,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 132,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 132,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 133,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 133,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 133,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 134,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 134,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 134,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 135,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 135,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 135,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 136,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 136,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 136,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 137,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 137,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 137,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 138,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 138,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 138,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 139,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 139,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 139,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 140,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 140,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 140,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 141,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 141,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 141,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 142,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 142,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 142,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 143,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 143,
+  "kind": "omitted",
+  "verdict": "INVALID",
+  "flagged_invalid": 1,
+  "response": "INVALID\n\nThe proposed reasoning contains an error in the final step where the total amount spent is calculated. The correct calculation should be:\n\n**Total spent = (Cost of pens) + (Cost of notebooks) + (Cost of bond paper)**\n**Total spent = \\$6.00 + \\$8.00 + \\$20.00**\n**Total spent = \\$14.00 + \\$20.00**\n**Total spent = \\$34.00**\n\nTherefore, the final answer, based on the correct reasoning, is \\$34.00, not \\$34 as stated in the proposed answer."
+ },
+ {
+  "idx": 143,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 144,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 144,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 144,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 145,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 145,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 145,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 146,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 146,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 146,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 147,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 147,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 147,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 148,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 148,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 148,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 149,
+  "kind": "supported",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 149,
+  "kind": "omitted",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ },
+ {
+  "idx": 149,
+  "kind": "false",
+  "verdict": "VALID",
+  "flagged_invalid": 0,
+  "response": "VALID"
+ }
+]
